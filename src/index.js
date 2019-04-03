@@ -12,5 +12,4 @@ ReactDOM.render(<ImageUploader />, document.getElementById('img'));
 
 // ReactDOM.render(<DrawChart />, document.getElementById('chart'));  //At index.html 
 
-
 serviceWorker.unregister();
